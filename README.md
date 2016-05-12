@@ -1,5 +1,5 @@
 # hiveuaparser
-user agent parser for apache hive
+This is user agent parser for apache hive.
 
 ## Credits
 Derived from https://github.com/tobie/ua-parser/tree/master/java
